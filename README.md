@@ -11,3 +11,5 @@ Code directories are organized using the following format:
 ```
 yyyy-mm-dd-<name-of-meetup>
 ```
+
+Where the timestamp relates to the date of the meetup and the name references the topic.
